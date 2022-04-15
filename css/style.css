@@ -61,6 +61,9 @@ a{
     text-decoration: underline;
     /* border-radius: 25px; */
 }
+.nonactive{
+    color:black;
+}
 a:visited { 
     color: inherit; 
 }
