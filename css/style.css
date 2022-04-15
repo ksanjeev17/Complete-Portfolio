@@ -62,7 +62,7 @@ a{
     /* border-radius: 25px; */
 }
 #nonactive{
-    color:black;
+    color:black !important;
 }
 a:visited { 
     color: inherit; 
