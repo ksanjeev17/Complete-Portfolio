@@ -67,6 +67,9 @@ a{
 a:visited { 
     color: inherit; 
 }
+a:link{
+    color:black !important;
+}
 /*
 div img{
     margin: 12px;
