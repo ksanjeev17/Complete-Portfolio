@@ -61,7 +61,7 @@ a{
     text-decoration: underline;
     /* border-radius: 25px; */
 }
-.nonactive{
+#nonactive{
     color:black;
 }
 a:visited { 
